@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "graceful.shutdown.tomcatTimeout",
+      "type": "java.lang.Integer",
+      "description": "shutdown timeout(seconds)",
+      "sourceType": "io.github.onlyeat3.bordercorllie.shutdown.graceful.GracefulShutdownProperties"
+    }
+  ],
+  "hints": [
+  ]
+}
